@@ -2,6 +2,9 @@
 
 **Notflix** is a movie streaming app built using the MERN stack (MongoDB, Express, React, Node.js). It lets users watch movies, view trailers, search for actors. It’s designed to be easy to use and looks great on all devices!
 
+<img width="1904" height="963" alt="image" src="https://github.com/user-attachments/assets/5bac92b5-8eff-4de8-be39-1732e5d9ba80" />
+
+
 ## ✨ Features
 
 - **Stream Movies**: Watch movies directly without downloading the full file.
